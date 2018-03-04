@@ -1,0 +1,22 @@
+body {
+  background: #f9f9f9;;
+}
+
+.content {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17px;
+  margin: 90px auto;
+  width: 32em;
+  color: #595959;
+}
+
+.content .icons {
+  font-size: 24px;
+  margin: 2px;
+  cursor: pointer;
+  transition: 0.4s
+}
+
+.content .icons:hover {
+  color: black;
+}
